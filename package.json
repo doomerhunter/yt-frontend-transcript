@@ -1,0 +1,12 @@
+{
+  "name": "youtube-processor",
+  "version": "1.0.0",
+  "description": "YouTube video processor with language selection",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
